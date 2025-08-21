@@ -1,4 +1,4 @@
-function lin_bayer=linear(raw)    
+function lin_bayer=linear1(raw)    
 %             black = 150;
 %             saturation = 4095;
 %             lin_bayer = (raw-black)/(saturation-black); % 归一化至 [0,1]
